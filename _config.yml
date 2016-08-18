@@ -1,0 +1,14 @@
+layout_spectrum: 0.3975552497431636
+typography_spectrum: 0.9894084776751697
+color:
+  brandStrength: 0.9037742044311017
+  lightness: 0.11578427092172205
+  saturation: 0.8286052136681974
+  rhythmicContrast: 0.6542035085149109
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: empathy
